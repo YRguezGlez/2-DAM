@@ -1,5 +1,5 @@
 # Audioteca
- La tarea consistía realizar un sistema en Python para la gestión de diferentes audiotecas.
+ La tarea consistía en realizar un sistema en Python para la gestión de diferentes audiotecas.
  
  * Entre las gestiones que debe permitir están:
 
