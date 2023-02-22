@@ -1,2 +1,2 @@
 # 2-DAM
-# Algunos de los proyectos realizados durante el segundo año de DAM.
+# Algunos proyectos realizados durante mi segundo año de DAM.
