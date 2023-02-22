@@ -9,8 +9,9 @@
 
 
 # App "Ruleta Rusa"
-  La tarea constía en realizar la simulación del juego de la Ruleta Rusa o uno parecido en Android Studio.
-  En este caso, la aplicación es un juego de la ruleta rusa pero con algunos cambios en la temática para volverla algo más original.
+  La tarea constía en realizar en Android Studio, de un juego igual o similar a la ruleta rusa.
+  
+  En este caso, es un juego de la ruleta rusa pero con algunos cambios en la temática para volverla algo más creativo.
 
  * El arma en lugar de ser un revolver y balas, es un arco con flechas.
  * El jugador tiene como objetivo disparar a otro jugador, pero este último podrá moverse y esquivar la flecha.
